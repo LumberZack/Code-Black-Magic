@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-B9G9USO" Modified="2018-03-03 21:35:12 -0500" ModID="4E492DA4-A5C6-44B8-A39E-DCFC5491533F">
+    <Binder>
+        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <LabelID>5</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>328,0</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 12:27:29 -0500" Modified="2007-03-25 17:00:41 -0500" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="127" UUID="9447D34D-9AF9-4781-ADCA-FB44A187D9ED" Created="2018-02-26 07:14:58 -0500" Modified="2018-02-26 07:15:22 -0500" Type="Folder">
+                    <Title>Next Edit</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="41" UUID="C4E4D8ED-DA0E-46BD-8A45-6319B35F9294" Created="2017-11-01 10:57:35 -0500" Modified="2018-02-28 18:46:26 -0500" Type="Text">
+                            <Title>Quitting Time</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6732,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="88" UUID="3CC6C3D7-72FD-4900-BF23-F90B43B4DB70" Created="2017-11-01 14:25:10 -0500" Modified="2018-02-16 14:07:25 -0500" Type="Text">
+                            <Title>Life Of The Party</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10184,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="87" UUID="502FF111-4A24-4E69-9222-C9B06CE8BDD3" Created="2017-11-01 14:24:36 -0500" Modified="2018-02-16 14:29:55 -0500" Type="Text">
+                            <Title>Wood For Brains</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4432,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="86" UUID="A0A3F4BC-430A-4115-B5BB-CA5B712D2EC4" Created="2017-11-01 14:24:10 -0500" Modified="2018-02-16 14:28:54 -0500" Type="Text">
+                            <Title>The Night Crowd</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5734,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="85" UUID="4CD248BB-0EC0-4CDA-8698-F9E22F821AFA" Created="2017-11-01 14:23:32 -0500" Modified="2018-03-02 21:51:22 -0500" Type="Text">
+                            <Title>Late Night Visitor</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>14620,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="84" UUID="392F73F7-C421-4F2B-B1E9-EF85035857FB" Created="2017-11-01 14:23:00 -0500" Modified="2018-03-02 21:45:22 -0500" Type="Text">
+                            <Title>Final Stop</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9442,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="83" UUID="AC258A9D-039A-4355-A9A1-E4477786EF2A" Created="2017-11-01 14:22:37 -0500" Modified="2018-03-02 22:14:20 -0500" Type="Text">
+                            <Title>Intruding Conversation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>15681,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="118" UUID="7C0B44FA-E07F-4F5E-A57C-7E4C7E7D239A" Created="2017-11-01 16:07:27 -0500" Modified="2018-02-16 09:38:28 -0500" Type="Folder">
+                    <Title>Acceptable Share Draft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="82" UUID="E3C54DB0-A26A-415B-B1BE-254DFD9B4AB0" Created="2017-11-01 14:22:01 -0500" Modified="2018-03-02 22:15:58 -0500" Type="Text">
+                            <Title>Underground War</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3480,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="128" UUID="C6681A48-299D-4E0F-9C16-11B917ED4F68" Created="2018-02-26 07:17:12 -0500" Modified="2018-02-28 19:19:43 -0500" Type="Text">
+                                    <Title>Idea</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Light Bulb.tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>37,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="81" UUID="583C425B-F23A-45EB-8015-1ED1EC368CE0" Created="2017-11-01 14:21:33 -0500" Modified="2018-02-16 14:40:29 -0500" Type="Text">
+                            <Title>Beedel's Fight</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7658,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" UUID="8A184BC7-C70D-4E15-BDA2-21E88446B140" Created="2017-11-01 14:21:07 -0500" Modified="2018-02-26 08:55:43 -0500" Type="Text">
+                            <Title>The Morning After</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>816,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="79" UUID="AE68EFA2-793B-497C-B8D3-BE575B59EB2C" Created="2017-11-01 14:20:32 -0500" Modified="2018-02-16 14:40:39 -0500" Type="Text">
+                            <Title>Punishing Tardiness</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8082,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="78" UUID="C364556B-9AC4-45A8-BB8E-2ED8848DB8D8" Created="2017-11-01 14:17:46 -0500" Modified="2018-02-16 14:40:57 -0500" Type="Text">
+                            <Title>Old Bonds</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="26980">0,26980</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="77" UUID="385955A7-38BB-46DC-9140-29EDE1AA62E6" Created="2017-11-01 14:16:35 -0500" Modified="2018-02-16 14:41:03 -0500" Type="Text">
+                            <Title>BugBot's Adventure Vol.1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="5041">0,5041</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="76" UUID="204E0A9E-6036-47C1-A06B-5411811849D0" Created="2017-11-01 14:06:46 -0500" Modified="2018-02-16 14:41:13 -0500" Type="Text">
+                            <Title>Save The Pit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>599,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="123" UUID="9B13DED8-E618-4FB1-AC03-48225E0A2F63" Created="2017-11-09 19:28:48 -0500" Modified="2017-11-09 19:29:23 -0500" Type="Text">
+                                    <Title>#Change Ideas-2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Light Bulb.tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>44,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="75" UUID="CB32A227-97BD-4874-B5B7-EC0722790B1F" Created="2017-11-01 14:06:10 -0500" Modified="2018-02-16 14:41:35 -0500" Type="Text">
+                            <Title>Surges Of Pain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="3427">0,3427</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="74" UUID="939BD5CE-ED4C-4AFF-9DA0-2314DB701912" Created="2017-11-01 14:05:46 -0500" Modified="2018-02-16 14:41:40 -0500" Type="Text">
+                            <Title>Battle In The Undercity</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="20212">0,20212</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="73" UUID="22C88A2D-C813-4634-9956-BB0068136188" Created="2017-11-01 14:05:05 -0500" Modified="2018-02-16 14:41:44 -0500" Type="Text">
+                            <Title>Escape Plan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1590,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="72" UUID="62DD7E62-381A-4E4E-8814-668B77BC577D" Created="2017-11-01 14:04:37 -0500" Modified="2018-02-16 14:41:48 -0500" Type="Text">
+                            <Title>Inside The Pit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="8604">0,8604</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="71" UUID="2DAD4E13-7FCD-4E14-8284-667AA1959847" Created="2017-11-01 14:00:57 -0500" Modified="2018-02-16 14:41:56 -0500" Type="Text">
+                            <Title>Strange Company</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13084,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="126" UUID="C88DFD81-4D45-4B15-9F7C-04945D086C8E" Created="2018-02-24 08:12:07 -0500" Modified="2018-02-24 08:13:15 -0500" Type="Text">
+                                    <Title>#Change Ideas-3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Light Bulb.tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>122,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="70" UUID="5D31FCA6-B8F6-459A-8B45-CCA086260A81" Created="2017-11-01 14:00:06 -0500" Modified="2018-02-16 14:42:00 -0500" Type="Text">
+                            <Title>The Witch's Lair</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="8845">0,8845</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" UUID="D67D2C59-6B61-4EC6-B59E-3B385B74866D" Created="2017-11-01 13:59:23 -0500" Modified="2018-02-16 14:42:05 -0500" Type="Text">
+                            <Title>BugBot's Adventure  Vol. 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>366,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="68" UUID="8237BA74-C59F-4293-AF96-BA5A4089DA39" Created="2017-11-01 13:59:07 -0500" Modified="2018-02-16 14:42:09 -0500" Type="Text">
+                            <Title>The Long Way Home</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2296,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="FBE3EB4E-AEDC-4364-BA8B-192965B04E3A" Created="2017-11-01 11:00:45 -0500" Modified="2018-02-16 14:42:12 -0500" Type="Text">
+                            <Title>Bloody Saviour</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>14143,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="119" UUID="8DD29140-6A2C-4B2B-AEAC-9F0FBEB8EF48" Created="2017-11-01 16:07:44 -0500" Modified="2017-11-01 16:19:53 -0500" Type="Folder">
+                    <Title>1st Draft (Nano)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="89" UUID="23B358F3-66E3-4611-8380-6D62849F6BBC" Created="2017-11-01 14:32:08 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Into The Woods</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12618,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="90" UUID="E45E6968-9F6A-4647-A275-B1E9B8EF199D" Created="2017-11-01 14:32:43 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Chloe's Awakening</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4801,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="91" UUID="725337DB-09F3-4DCD-A745-9E6D8D4D7E7E" Created="2017-11-01 14:33:06 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Heist</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11537,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="92" UUID="CD9DCE6D-7DD2-4418-B80B-619E29B2BB6E" Created="2017-11-01 14:33:45 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>BugBot's Adventure Vol. 3</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>365,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="93" UUID="DD62E81E-93CE-4D76-90D1-C266763A8D0B" Created="2017-11-01 14:34:24 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Old Story Keeper</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>16995,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="94" UUID="ACF2AC21-EC9C-4AFD-BC43-4F509E295980" Created="2017-11-01 14:36:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Journey Home</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>955,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="95" UUID="CCDAF954-486C-4B85-83B9-E73F2F481AAE" Created="2017-11-01 14:36:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Return To The Scene Of The Crime</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>722,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="96" UUID="88C1D98B-AEC0-43B7-A181-289EA52089BE" Created="2017-11-01 14:37:26 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Lobby</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3137,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="97" UUID="4F6AA893-1567-4FD7-B2E1-999AA1311582" Created="2017-11-01 14:37:51 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Back Into The Tunnels</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5890,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="98" UUID="7910A770-6446-4B99-8FA7-0A394ADCE056" Created="2017-11-01 14:38:10 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Hunt Goes On</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>719,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" UUID="242B760E-A501-44CA-8B63-FDEB1B8683CE" Created="2017-11-01 14:38:44 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Before The Storm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3997,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="100" UUID="EC80BD42-BF8B-4C76-825F-5EB3288F0F3E" Created="2017-11-01 14:39:01 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Roadblock</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2007,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="101" UUID="17F6E3FD-B8AA-4319-964F-5837085E9200" Created="2017-11-01 14:39:33 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Aftermath</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="102" UUID="A1AB0B06-53D0-47CD-BBCB-B4C3598B5C76" Created="2017-11-01 14:42:03 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The Beginning Of The End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>31405,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="D80FAFB1-158F-4D88-94BD-0C31AF8CD109" Created="2017-11-01 14:43:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>The End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1143,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 08:06:35 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="49" UUID="BAFDCB61-08BD-465E-8F92-888846533B13" Created="2017-11-01 11:16:25 -0500" Modified="2018-02-18 09:02:26 -0500" Type="Folder">
+                    <Title>Protaganists</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="45" UUID="F2D93723-A381-4CCA-8B2C-2CD215EAB2D5" Created="2017-11-01 11:15:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                            <Title>Ren Magic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="53" UUID="E0A66A60-8AD1-4FBE-8A0D-82337F24AC9B" Created="2017-11-01 11:17:34 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Silver Magic</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="61" UUID="9B0E2B33-98B7-421F-8821-42034A198865" Created="2017-11-01 11:24:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Stephen</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="62" UUID="A1C9F6ED-49DF-419F-8464-949FACE2C794" Created="2017-11-01 11:24:52 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Carson</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="63" UUID="2283EDF5-7E3A-40B2-9B82-AE52CAB98CCA" Created="2017-11-01 11:24:58 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Julia</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="5D4BEC0B-3D89-4556-A90C-0AE8446672BD" Created="2017-11-01 11:15:59 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                            <Title>Petunia &quot;Chloe&quot; Rendal </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="64" UUID="4489C5FA-412B-47D5-BE10-5B51DC90E9A3" Created="2017-11-01 11:25:46 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Jak</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="65" UUID="B730B666-6C2C-406A-AF0F-BE8E68916008" Created="2017-11-01 11:25:50 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Thugg</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="66" UUID="7395E7E4-4744-49F1-AE2F-431D7F1D6CBD" Created="2017-11-01 11:25:55 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Grandma Rendal</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="67" UUID="F81108F8-4235-43D0-82AC-B02EDBFC58D2" Created="2017-11-01 11:26:03 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Mom and Dad</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="8A3864BF-89B1-4E28-A57C-56A459BBA679" Created="2017-11-01 11:16:07 -0500" Modified="2018-02-16 14:08:11 -0500" Type="Folder">
+                            <Title>Beedel Circuitwood</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="104" UUID="5D66D9EA-6FCB-44DD-BAF5-4F56C1C5A821" Created="2017-11-01 15:24:46 -0500" Modified="2017-11-01 16:10:05 -0500" Type="Text">
+                                    <Title>BugBot</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="107" UUID="574E4975-52B9-450E-94D7-0727879B8048" Created="2017-11-01 15:27:02 -0500" Modified="2017-11-01 16:10:05 -0500" Type="Text">
+                                    <Title>Solphas</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="106" UUID="120DAB53-701F-428D-80E4-37353E63F6B8" Created="2017-11-01 15:27:00 -0500" Modified="2017-11-01 16:10:05 -0500" Type="Text">
+                                    <Title>Maggie</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="3AEE978E-3924-4133-8DF8-43151C8630BA" Created="2017-11-01 11:16:12 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                            <Title>Grummin Irontooth</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="109" UUID="3DCE7969-CAEF-4A1E-9222-EBFB70A35D23" Created="2017-11-01 15:32:01 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Bezelnorf</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="110" UUID="ABA7E589-8BBD-40E0-BD35-AA7017DA4B87" Created="2017-11-01 15:32:10 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Petra</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="105" UUID="1B1E847A-453D-445F-98F6-59F26DB23B83" Created="2017-11-01 15:26:28 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Skeeter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="113" UUID="51A820BF-0D51-4206-8306-71942C4BCADE" Created="2017-11-01 15:34:29 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Aizen</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="111" UUID="85DAEA6E-CEA6-47F0-B2E8-C1131875F960" Created="2017-11-01 15:32:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Whiskers</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="50" UUID="6121DEA3-1E99-44ED-A0EE-E1DBEDC5C1BE" Created="2017-11-01 11:16:54 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Antagonists</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="52" UUID="7B7560FC-F5F1-4989-8CF4-9F0F410505C9" Created="2017-11-01 11:17:29 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Elizaborah</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" UUID="14A49475-0432-414C-A2BA-76649BE07742" Created="2017-11-01 11:17:17 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Krozan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="114" UUID="6BFBB19A-56B9-45DC-93C7-2D739145F38E" Created="2017-11-01 15:34:51 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                            <Title>Corina</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="54" UUID="7272C49A-2087-47D0-AF8F-08179C30C3D9" Created="2017-11-01 11:18:56 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+            <Title>Races</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Eye.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="55" UUID="3709EC07-6724-40D7-BE34-F518C1464373" Created="2017-11-01 11:19:19 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Human</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="56" UUID="F29BE138-1C6B-4AB7-8556-94881D77F9B8" Created="2017-11-01 11:19:24 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Draconian</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="115" UUID="28EF7B4F-14D9-49E2-8FBD-72CA651E9FED" Created="2017-11-01 15:40:08 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Image">
+                            <Title>Grummin 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="116" UUID="1A123E99-C095-47CE-B163-F7C7EA015523" Created="2017-11-01 15:42:14 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Image">
+                            <Title>Grummin 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="117" UUID="1F0A872E-0C51-4911-BDEC-316B83083308" Created="2017-11-01 15:44:57 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Image">
+                            <Title>Krozan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="57" UUID="B66DD4CB-A9F6-4087-A100-6573917CB40B" Created="2017-11-01 11:19:29 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Roden</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" UUID="FAA2526A-120A-46F8-8FA5-DCFFFCFB540D" Created="2017-11-01 11:19:34 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Arborians</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="59" UUID="46789526-5669-4D68-A4E1-741C262CE07E" Created="2017-11-01 11:19:57 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Half-Dead</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-19 08:06:37 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-20 12:15:20 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="14" UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Created="2014-06-12 01:52:32 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="40" UUID="DAD0D623-098A-472A-B274-84638F5EF5B1" Created="2015-09-23 20:17:01 -0500" Modified="2015-09-23 20:17:01 -0500" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Created="2014-06-12 01:52:32 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Created="2014-06-12 01:52:32 -0500" Modified="2014-06-12 01:52:32 -0500" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-12 01:52:32 -0500" Modified="2014-06-12 01:52:32 -0500" Type="Text">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="E2571F9B-549F-4787-9C23-911289FA706E" Created="2014-06-12 01:52:32 -0500" Modified="2014-06-12 01:52:33 -0500" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" UUID="00D78C34-591C-4B77-8149-CB18AC21A56C" Created="2014-06-12 01:52:32 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="23" UUID="767D41CE-6E50-4521-ABBA-98962F8712B0" Created="2014-06-12 01:52:33 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Image">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="63DA3161-5F56-4083-A486-0040F0E4EA67" Created="2014-06-12 01:52:33 -0500" Modified="2014-06-12 01:52:33 -0500" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Created="2006-11-04 12:27:29 -0500" Modified="2006-11-04 12:27:29 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="39" UUID="475F1951-26E8-43D7-8BD1-F558DEC3F168" Created="2011-07-20 12:40:07 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="9" UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Created="2014-04-25 05:49:45 -0500" Modified="2014-04-25 05:49:46 -0500" Type="PDF">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="6A6ADBEA-A468-47E7-8A64-ECD1C441D647" Created="2014-05-10 15:46:54 -0500" Modified="2014-05-10 15:46:54 -0500" Type="PDF">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="A8ED99F6-E116-411A-B5CD-B124F7508B6C" Created="2014-05-02 04:46:35 -0500" Modified="2014-05-02 04:50:26 -0500" Type="Image">
+                            <Title>ADE E-Book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Created="2010-10-19 08:57:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 01:52:57 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="24" UUID="23A06CD3-648A-45E0-AD6E-19BCBC457E00" Created="2014-06-12 01:52:57 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A097E066-25A9-43C7-9FBE-58A2AED4603E" Created="2006-11-04 12:27:29 -0500" Modified="2006-11-04 12:27:29 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="121" UUID="6E7CFC2E-2D61-4AAF-8883-AD16335C9658" Created="2017-11-01 16:27:57 -0500" Modified="2017-11-01 16:27:57 -0500" Type="Text">
+                    <Title>#Change Ideas-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="125" UUID="2FC068C8-67FD-4644-8C8F-EC8FC75D6A26" Created="2018-02-17 19:32:32 -0500" Modified="2018-02-17 19:32:54 -0500" Type="Text">
+                    <Title>#Change Ideas-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="124" UUID="83CEB3F1-F61B-4A70-82D3-C2B8D3871E76" Created="2018-02-16 14:37:59 -0500" Modified="2018-02-16 14:40:07 -0500" Type="Text">
+                    <Title>READ OVER -----</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="129" UUID="57ADA763-9D33-4D1C-894A-8160D8D70C15" Created="2018-02-28 19:19:22 -0500" Modified="2018-03-02 21:45:30 -0500" Type="Text">
+                    <Title>Idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
+            <Label ID="4" Color="0.274510 0.556863 1.000000">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2018-03-03 21:35:06 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="Keywords" Scope="All" CompileSetting="All" CaseSensitive="No">Ren</SearchSettings>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="1">
+            <Title>Ren</Title>
+            <Color>0.439216 0.321569 0.658824</Color>
+        </Keyword>
+        <Keyword ID="2">
+            <Title>Chloe</Title>
+            <Color>0.560784 0.235294 0.960784</Color>
+        </Keyword>
+        <Keyword ID="3">
+            <Title>Umbra</Title>
+            <Color>0.505882 0.364706 0.054902</Color>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>Beedel</Title>
+            <Color>0.600000 0.894118 0.560784</Color>
+        </Keyword>
+        <Keyword ID="5">
+            <Title>Jak</Title>
+            <Color>0.788235 0.815686 0.823529</Color>
+        </Keyword>
+        <Keyword ID="6">
+            <Title>BugBot</Title>
+            <Color>0.380392 0.349020 0.207843</Color>
+        </Keyword>
+        <Keyword ID="7">
+            <Title>Grummin</Title>
+            <Color>0.839216 0.890196 0.862745</Color>
+        </Keyword>
+    </Keywords>
+    <ProjectProperties>
+        <ProjectTitle>Code Black Magic</ProjectTitle>
+        <AbbreviatedTitle>CBM</AbbreviatedTitle>
+        <FullName>Zed Ivan Poirier</FullName>
+        <LastName>Poirier</LastName>
+        <FirstName>Zed</FirstName>
+    </ProjectProperties>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
