@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-B9G9USO" Modified="2018-03-03 21:42:32 -0500" ModID="CACAC271-9B9D-40D9-8EC7-FA58F92A7C07">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Home-PC" Modified="2018-03-04 20:52:18 -0500" ModID="EF8D69F9-1452-4653-B929-CD58290FF92D">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -115,6 +115,39 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="82" UUID="E3C54DB0-A26A-415B-B1BE-254DFD9B4AB0" Created="2017-11-01 14:22:01 -0500" Modified="2018-03-04 20:26:17 -0500" Type="Text">
+                            <Title>Underground War</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8691,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="81" UUID="583C425B-F23A-45EB-8015-1ED1EC368CE0" Created="2017-11-01 14:21:33 -0500" Modified="2018-03-04 20:39:50 -0500" Type="Text">
+                            <Title>Beedel's Fight</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9893,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" UUID="8A184BC7-C70D-4E15-BDA2-21E88446B140" Created="2017-11-01 14:21:07 -0500" Modified="2018-03-04 20:51:01 -0500" Type="Text">
+                            <Title>The Morning After</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7585,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="118" UUID="7C0B44FA-E07F-4F5E-A57C-7E4C7E7D239A" Created="2017-11-01 16:07:27 -0500" Modified="2018-02-16 09:38:28 -0500" Type="Folder">
@@ -126,52 +159,6 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="82" UUID="E3C54DB0-A26A-415B-B1BE-254DFD9B4AB0" Created="2017-11-01 14:22:01 -0500" Modified="2018-03-03 21:42:30 -0500" Type="Text">
-                            <Title>Underground War</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="128" UUID="C6681A48-299D-4E0F-9C16-11B917ED4F68" Created="2018-02-26 07:17:12 -0500" Modified="2018-02-28 19:19:43 -0500" Type="Text">
-                                    <Title>Idea</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>rtf</FileExtension>
-                                        <IconFileName>Light Bulb.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>37,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="81" UUID="583C425B-F23A-45EB-8015-1ED1EC368CE0" Created="2017-11-01 14:21:33 -0500" Modified="2018-02-16 14:40:29 -0500" Type="Text">
-                            <Title>Beedel's Fight</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>7658,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="80" UUID="8A184BC7-C70D-4E15-BDA2-21E88446B140" Created="2017-11-01 14:21:07 -0500" Modified="2018-02-26 08:55:43 -0500" Type="Text">
-                            <Title>The Morning After</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>816,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="79" UUID="AE68EFA2-793B-497C-B8D3-BE575B59EB2C" Created="2017-11-01 14:20:32 -0500" Modified="2018-02-16 14:40:39 -0500" Type="Text">
                             <Title>Punishing Tardiness</Title>
                             <MetaData>
@@ -182,6 +169,20 @@
                                 <TextSelection>8082,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="130" UUID="25A8B26D-8F1D-4AD1-AC19-2A4584D1B0C3" Created="2018-03-04 20:51:28 -0500" Modified="2018-03-04 20:52:15 -0500" Type="Text">
+                                    <Title>Idea</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Light Bulb.tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>133,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="78" UUID="C364556B-9AC4-45A8-BB8E-2ED8848DB8D8" Created="2017-11-01 14:17:46 -0500" Modified="2018-02-16 14:40:57 -0500" Type="Text">
                             <Title>Old Bonds</Title>
@@ -751,7 +752,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="51" UUID="14A49475-0432-414C-A2BA-76649BE07742" Created="2017-11-01 11:17:17 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                        <BinderItem ID="51" UUID="14A49475-0432-414C-A2BA-76649BE07742" Created="2017-11-01 11:17:17 -0500" Modified="2018-03-04 20:08:06 -0500" Type="Text">
                             <Title>Krozan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1217,6 +1218,18 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="128" UUID="C6681A48-299D-4E0F-9C16-11B917ED4F68" Created="2018-02-26 07:17:12 -0500" Modified="2018-02-28 19:19:43 -0500" Type="Text">
+                    <Title>Idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>37,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1249,7 +1262,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-03-03 21:42:25 -0500"/>
+        <PreviousSession Words="3358" Characters="18446" Date="2018-03-04 20:06:06 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
