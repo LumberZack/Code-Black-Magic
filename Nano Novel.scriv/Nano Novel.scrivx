@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Home-PC" Modified="2018-03-07 20:04:57 -0500" ModID="F42CB61E-67B1-478E-BDAE-FDE3C4E000EE">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Home-PC" Modified="2018-03-11 22:40:15 -0500" ModID="B4817317-0E9B-49BE-B616-CCD5C4903D3D">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -29,8 +29,8 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="127" UUID="9447D34D-9AF9-4781-ADCA-FB44A187D9ED" Created="2018-02-26 07:14:58 -0500" Modified="2018-02-26 07:15:22 -0500" Type="Folder">
-                    <Title>Next Edit</Title>
+                <BinderItem ID="127" UUID="9447D34D-9AF9-4781-ADCA-FB44A187D9ED" Created="2018-02-26 07:14:58 -0500" Modified="2018-03-11 22:35:32 -0500" Type="Folder">
+                    <Title>Part 1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -180,157 +180,43 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="118" UUID="7C0B44FA-E07F-4F5E-A57C-7E4C7E7D239A" Created="2017-11-01 16:07:27 -0500" Modified="2018-02-16 09:38:28 -0500" Type="Folder">
-                    <Title>Acceptable Share Draft</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="76" UUID="204E0A9E-6036-47C1-A06B-5411811849D0" Created="2017-11-01 14:06:46 -0500" Modified="2018-03-07 14:51:35 -0500" Type="Text">
+                        <BinderItem ID="76" UUID="204E0A9E-6036-47C1-A06B-5411811849D0" Created="2017-11-01 14:06:46 -0500" Modified="2018-03-11 22:37:19 -0500" Type="Text">
                             <Title>Save The Pit</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12365,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="123" UUID="9B13DED8-E618-4FB1-AC03-48225E0A2F63" Created="2017-11-09 19:28:48 -0500" Modified="2017-11-09 19:29:23 -0500" Type="Text">
-                                    <Title>#Change Ideas-2</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <IconFileName>Light Bulb.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>44,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="75" UUID="CB32A227-97BD-4874-B5B7-EC0722790B1F" Created="2017-11-01 14:06:10 -0500" Modified="2018-02-16 14:41:35 -0500" Type="Text">
-                            <Title>Surges Of Pain</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1652,0</TextSelection>
+                                <TextSelection>153,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="73" UUID="22C88A2D-C813-4634-9956-BB0068136188" Created="2017-11-01 14:05:05 -0500" Modified="2018-02-16 14:41:44 -0500" Type="Text">
+                        <BinderItem ID="73" UUID="22C88A2D-C813-4634-9956-BB0068136188" Created="2017-11-01 14:05:05 -0500" Modified="2018-03-11 22:35:12 -0500" Type="Text">
                             <Title>Escape Plan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1584,0</TextSelection>
+                                <TextSelection>2574,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="74" UUID="939BD5CE-ED4C-4AFF-9DA0-2314DB701912" Created="2017-11-01 14:05:46 -0500" Modified="2018-02-16 14:41:40 -0500" Type="Text">
-                            <Title>Battle In The Undercity</Title>
+                        <BinderItem ID="75" UUID="CB32A227-97BD-4874-B5B7-EC0722790B1F" Created="2017-11-01 14:06:10 -0500" Modified="2018-03-11 22:28:24 -0500" Type="Text">
+                            <Title>Surges Of Pain</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15404,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="72" UUID="62DD7E62-381A-4E4E-8814-668B77BC577D" Created="2017-11-01 14:04:37 -0500" Modified="2018-02-16 14:41:48 -0500" Type="Text">
-                            <Title>Inside The Pit</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection Caret="8604">0,8604</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="71" UUID="2DAD4E13-7FCD-4E14-8284-667AA1959847" Created="2017-11-01 14:00:57 -0500" Modified="2018-02-16 14:41:56 -0500" Type="Text">
-                            <Title>Strange Company</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>13084,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="126" UUID="C88DFD81-4D45-4B15-9F7C-04945D086C8E" Created="2018-02-24 08:12:07 -0500" Modified="2018-02-24 08:13:15 -0500" Type="Text">
-                                    <Title>#Change Ideas-3</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <IconFileName>Light Bulb.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>122,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="70" UUID="5D31FCA6-B8F6-459A-8B45-CCA086260A81" Created="2017-11-01 14:00:06 -0500" Modified="2018-02-16 14:42:00 -0500" Type="Text">
-                            <Title>The Witch's Lair</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection Caret="8845">0,8845</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="69" UUID="D67D2C59-6B61-4EC6-B59E-3B385B74866D" Created="2017-11-01 13:59:23 -0500" Modified="2018-02-16 14:42:05 -0500" Type="Text">
-                            <Title>BugBot's Adventure  Vol. 2</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>366,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="68" UUID="8237BA74-C59F-4293-AF96-BA5A4089DA39" Created="2017-11-01 13:59:07 -0500" Modified="2018-02-16 14:42:09 -0500" Type="Text">
-                            <Title>The Long Way Home</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2296,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="43" UUID="FBE3EB4E-AEDC-4364-BA8B-192965B04E3A" Created="2017-11-01 11:00:45 -0500" Modified="2018-02-16 14:42:12 -0500" Type="Text">
-                            <Title>Bloody Saviour</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>14143,0</TextSelection>
+                                <TextSelection>2719,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="119" UUID="8DD29140-6A2C-4B2B-AEAC-9F0FBEB8EF48" Created="2017-11-01 16:07:44 -0500" Modified="2017-11-01 16:19:53 -0500" Type="Folder">
-                    <Title>1st Draft (Nano)</Title>
+                <BinderItem ID="118" UUID="7C0B44FA-E07F-4F5E-A57C-7E4C7E7D239A" Created="2017-11-01 16:07:27 -0500" Modified="2018-03-11 22:39:27 -0500" Type="Folder">
+                    <Title>Part 2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -338,168 +224,281 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="89" UUID="23B358F3-66E3-4611-8380-6D62849F6BBC" Created="2017-11-01 14:32:08 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Into The Woods</Title>
+                        <BinderItem ID="132" UUID="E8050B56-ED6C-4165-BE5E-0B1D6E66E599" Created="2018-03-11 22:39:57 -0500" Modified="2018-03-11 22:40:05 -0500" Type="Folder">
+                            <Title>First Pass Edit</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12618,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="74" UUID="939BD5CE-ED4C-4AFF-9DA0-2314DB701912" Created="2017-11-01 14:05:46 -0500" Modified="2018-03-11 22:38:28 -0500" Type="Text">
+                                    <Title>Battle In The Undercity</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="71" UUID="2DAD4E13-7FCD-4E14-8284-667AA1959847" Created="2017-11-01 14:00:57 -0500" Modified="2018-02-16 14:41:56 -0500" Type="Text">
+                                    <Title>Strange Company</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13084,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="126" UUID="C88DFD81-4D45-4B15-9F7C-04945D086C8E" Created="2018-02-24 08:12:07 -0500" Modified="2018-02-24 08:13:15 -0500" Type="Text">
+                                            <Title>#Change Ideas-3</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                                <IconFileName>Light Bulb.tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>122,0</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="72" UUID="62DD7E62-381A-4E4E-8814-668B77BC577D" Created="2017-11-01 14:04:37 -0500" Modified="2018-02-16 14:41:48 -0500" Type="Text">
+                                    <Title>Inside The Pit</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6554,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="70" UUID="5D31FCA6-B8F6-459A-8B45-CCA086260A81" Created="2017-11-01 14:00:06 -0500" Modified="2018-02-16 14:42:00 -0500" Type="Text">
+                                    <Title>The Witch's Lair</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="8845">0,8845</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="69" UUID="D67D2C59-6B61-4EC6-B59E-3B385B74866D" Created="2017-11-01 13:59:23 -0500" Modified="2018-02-16 14:42:05 -0500" Type="Text">
+                                    <Title>BugBot's Adventure  Vol. 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>366,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="68" UUID="8237BA74-C59F-4293-AF96-BA5A4089DA39" Created="2017-11-01 13:59:07 -0500" Modified="2018-02-16 14:42:09 -0500" Type="Text">
+                                    <Title>The Long Way Home</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2296,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="43" UUID="FBE3EB4E-AEDC-4364-BA8B-192965B04E3A" Created="2017-11-01 11:00:45 -0500" Modified="2018-02-16 14:42:12 -0500" Type="Text">
+                                    <Title>Bloody Saviour</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14143,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="90" UUID="E45E6968-9F6A-4647-A275-B1E9B8EF199D" Created="2017-11-01 14:32:43 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Chloe's Awakening</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>4801,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="91" UUID="725337DB-09F3-4DCD-A745-9E6D8D4D7E7E" Created="2017-11-01 14:33:06 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Heist</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>11537,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="92" UUID="CD9DCE6D-7DD2-4418-B80B-619E29B2BB6E" Created="2017-11-01 14:33:45 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>BugBot's Adventure Vol. 3</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>365,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="93" UUID="DD62E81E-93CE-4D76-90D1-C266763A8D0B" Created="2017-11-01 14:34:24 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Old Story Keeper</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>16995,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="94" UUID="ACF2AC21-EC9C-4AFD-BC43-4F509E295980" Created="2017-11-01 14:36:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Journey Home</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>955,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="95" UUID="CCDAF954-486C-4B85-83B9-E73F2F481AAE" Created="2017-11-01 14:36:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Return To The Scene Of The Crime</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>722,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="96" UUID="88C1D98B-AEC0-43B7-A181-289EA52089BE" Created="2017-11-01 14:37:26 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Lobby</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3137,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="97" UUID="4F6AA893-1567-4FD7-B2E1-999AA1311582" Created="2017-11-01 14:37:51 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Back Into The Tunnels</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>5890,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="98" UUID="7910A770-6446-4B99-8FA7-0A394ADCE056" Created="2017-11-01 14:38:10 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Hunt Goes On</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>719,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="99" UUID="242B760E-A501-44CA-8B63-FDEB1B8683CE" Created="2017-11-01 14:38:44 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Before The Storm</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3997,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="100" UUID="EC80BD42-BF8B-4C76-825F-5EB3288F0F3E" Created="2017-11-01 14:39:01 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>Roadblock</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2007,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="101" UUID="17F6E3FD-B8AA-4319-964F-5837085E9200" Created="2017-11-01 14:39:33 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Aftermath</Title>
+                        <BinderItem ID="119" UUID="8DD29140-6A2C-4B2B-AEAC-9F0FBEB8EF48" Created="2017-11-01 16:07:44 -0500" Modified="2017-11-01 16:19:53 -0500" Type="Folder">
+                            <Title>1st Draft (Nano)</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="102" UUID="A1AB0B06-53D0-47CD-BBCB-B4C3598B5C76" Created="2017-11-01 14:42:03 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The Beginning Of The End</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>31405,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="103" UUID="D80FAFB1-158F-4D88-94BD-0C31AF8CD109" Created="2017-11-01 14:43:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
-                            <Title>The End</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1143,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="89" UUID="23B358F3-66E3-4611-8380-6D62849F6BBC" Created="2017-11-01 14:32:08 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Into The Woods</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12618,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="90" UUID="E45E6968-9F6A-4647-A275-B1E9B8EF199D" Created="2017-11-01 14:32:43 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Chloe's Awakening</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4801,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="91" UUID="725337DB-09F3-4DCD-A745-9E6D8D4D7E7E" Created="2017-11-01 14:33:06 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Heist</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11537,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="92" UUID="CD9DCE6D-7DD2-4418-B80B-619E29B2BB6E" Created="2017-11-01 14:33:45 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>BugBot's Adventure Vol. 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>365,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="93" UUID="DD62E81E-93CE-4D76-90D1-C266763A8D0B" Created="2017-11-01 14:34:24 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Old Story Keeper</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16995,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="94" UUID="ACF2AC21-EC9C-4AFD-BC43-4F509E295980" Created="2017-11-01 14:36:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Journey Home</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>955,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="95" UUID="CCDAF954-486C-4B85-83B9-E73F2F481AAE" Created="2017-11-01 14:36:47 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Return To The Scene Of The Crime</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>722,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="96" UUID="88C1D98B-AEC0-43B7-A181-289EA52089BE" Created="2017-11-01 14:37:26 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Lobby</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3137,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="97" UUID="4F6AA893-1567-4FD7-B2E1-999AA1311582" Created="2017-11-01 14:37:51 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Back Into The Tunnels</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5890,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="98" UUID="7910A770-6446-4B99-8FA7-0A394ADCE056" Created="2017-11-01 14:38:10 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Hunt Goes On</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>719,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="99" UUID="242B760E-A501-44CA-8B63-FDEB1B8683CE" Created="2017-11-01 14:38:44 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Before The Storm</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3997,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="100" UUID="EC80BD42-BF8B-4C76-825F-5EB3288F0F3E" Created="2017-11-01 14:39:01 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>Roadblock</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2007,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="101" UUID="17F6E3FD-B8AA-4319-964F-5837085E9200" Created="2017-11-01 14:39:33 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Aftermath</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="102" UUID="A1AB0B06-53D0-47CD-BBCB-B4C3598B5C76" Created="2017-11-01 14:42:03 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The Beginning Of The End</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>31405,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="103" UUID="D80FAFB1-158F-4D88-94BD-0C31AF8CD109" Created="2017-11-01 14:43:18 -0500" Modified="2017-11-01 16:09:13 -0500" Type="Text">
+                                    <Title>The End</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1143,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1227,6 +1226,26 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="123" UUID="9B13DED8-E618-4FB1-AC03-48225E0A2F63" Created="2017-11-09 19:28:48 -0500" Modified="2017-11-09 19:29:23 -0500" Type="Text">
+                    <Title>#Change Ideas-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="131" UUID="63508B12-B878-4D5D-8BD0-0D6C10DFC65B" Created="2018-03-11 22:39:48 -0500" Modified="2018-03-11 22:39:48 -0500" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1259,7 +1278,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="4089" Characters="22827" Date="2018-03-07 10:11:44 -0500"/>
+        <PreviousSession Words="4489" Characters="25120" Date="2018-03-11 21:40:24 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
