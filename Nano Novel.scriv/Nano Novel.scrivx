@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Home-PC" Modified="2018-03-12 14:53:44 -0400" ModID="62B7B0A0-B85C-439F-B2BC-813AAA5BF64F">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Home-PC" Modified="2018-03-13 13:27:19 -0400" ModID="34A47D82-1176-404D-9B5B-F1D91B8A2C2E">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 17:48:19 -0400" Modified="2017-11-01 17:09:13 -0400" Type="Text">
             <Title>Novel Format</Title>
@@ -91,14 +91,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="84" UUID="392F73F7-C421-4F2B-B1E9-EF85035857FB" Created="2017-11-01 15:23:00 -0400" Modified="2018-03-02 21:45:22 -0400" Type="Text">
+                        <BinderItem ID="84" UUID="392F73F7-C421-4F2B-B1E9-EF85035857FB" Created="2017-11-01 15:23:00 -0400" Modified="2018-03-13 12:53:57 -0400" Type="Text">
                             <Title>Final Stop</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9442,0</TextSelection>
+                                <TextSelection>9152,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -189,14 +189,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="73" UUID="22C88A2D-C813-4634-9956-BB0068136188" Created="2017-11-01 15:05:05 -0400" Modified="2018-03-11 23:35:12 -0400" Type="Text">
+                        <BinderItem ID="73" UUID="22C88A2D-C813-4634-9956-BB0068136188" Created="2017-11-01 15:05:05 -0400" Modified="2018-03-13 12:53:50 -0400" Type="Text">
                             <Title>Escape Plan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2574,0</TextSelection>
+                                <TextSelection>2297,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -222,6 +222,17 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="71" UUID="2DAD4E13-7FCD-4E14-8284-667AA1959847" Created="2017-11-01 15:00:57 -0400" Modified="2018-03-13 13:26:50 -0400" Type="Text">
+                            <Title>Strange Company</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>14373,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="118" UUID="7C0B44FA-E07F-4F5E-A57C-7E4C7E7D239A" Created="2017-11-01 17:07:27 -0400" Modified="2018-03-11 23:39:27 -0400" Type="Folder">
@@ -242,31 +253,6 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="71" UUID="2DAD4E13-7FCD-4E14-8284-667AA1959847" Created="2017-11-01 15:00:57 -0400" Modified="2018-02-16 14:41:56 -0400" Type="Text">
-                                    <Title>Strange Company</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>rtf</FileExtension>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>11090,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="126" UUID="C88DFD81-4D45-4B15-9F7C-04945D086C8E" Created="2018-02-24 08:12:07 -0400" Modified="2018-02-24 08:13:15 -0400" Type="Text">
-                                            <Title>#Change Ideas-3</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <FileExtension>rtf</FileExtension>
-                                                <IconFileName>Light Bulb.tiff</IconFileName>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>122,0</TextSelection>
-                                                <Target Type="Words">0</Target>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
                                 <BinderItem ID="72" UUID="62DD7E62-381A-4E4E-8814-668B77BC577D" Created="2017-11-01 15:04:37 -0400" Modified="2018-02-16 14:41:48 -0400" Type="Text">
                                     <Title>Inside The Pit</Title>
                                     <MetaData>
@@ -1244,6 +1230,18 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="126" UUID="C88DFD81-4D45-4B15-9F7C-04945D086C8E" Created="2018-02-24 08:12:07 -0400" Modified="2018-02-24 08:13:15 -0400" Type="Text">
+                    <Title>#Change Ideas-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>122,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1276,7 +1274,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3" Characters="0" Date="2018-03-12 10:00:29 -0400"/>
+        <PreviousSession Words="1616" Characters="9013" Date="2018-03-13 09:24:04 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
